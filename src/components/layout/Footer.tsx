@@ -50,6 +50,7 @@ export default function Footer() {
                 <li key={n.href}><a href={n.href} className="link-underline text-mist hover:text-white">{n.label}</a></li>
               ))}
               <li><a href="#achievements" className="link-underline text-mist hover:text-white">Achievements</a></li>
+              <li><a href="/v2" className="link-underline text-mist hover:text-white">View light edition</a></li>
             </ul>
           </nav>
           <nav aria-label="Footer programs">

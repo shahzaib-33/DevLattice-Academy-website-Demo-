@@ -147,7 +147,7 @@ export function V2Footer() {
   const cols = [
     { h: "Programs", items: programs.map((p) => ({ l: p.title, href: "#programs" })) },
     { h: "Company", items: [{ l: "About", href: "#about" }, { l: "Process", href: "#process" }, { l: "Student work", href: "#work" }, { l: "FAQ", href: "#faq" }] },
-    { h: "Get started", items: [{ l: "Book a consultation", href: "#contact" }, { l: "Compare programs", href: "#programs" }, { l: "View Demo 1 (dark edition)", href: "https://claude.ai/artifact/G8vdGTbs7e95rYL2tf581Y" }] },
+    { h: "Get started", items: [{ l: "Book a consultation", href: "#contact" }, { l: "Compare programs", href: "#programs" }, { l: "View dark edition", href: "/" }] },
   ];
   return (
     <footer className="relative overflow-hidden bg-coal pt-20 text-white">

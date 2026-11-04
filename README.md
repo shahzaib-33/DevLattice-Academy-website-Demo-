@@ -64,8 +64,7 @@ inquiry in the visitor's email app or copy it.
 4. Click **Deploy**. Update `site.url` in `src/config/site.ts` with the final domain.
 
 The project uses `output: "export"`, so the `out/` folder can also be hosted on Netlify,
-Cloudflare Pages or GitHub Pages. `npm run build:artifact` produces a build with relative asset
-paths that runs from any sub-folder. Use `node scripts/prepare-artifact.mjs v2.html artifact-v2` for Demo 2.
+Cloudflare Pages or GitHub Pages.
 
 ## Structure
 
