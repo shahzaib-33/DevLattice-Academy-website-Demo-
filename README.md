@@ -1,6 +1,14 @@
 # DevLattice Academy Website
 
 Official website concept for **DevLattice Academy**, a DevLattice System company.
+
+**Live demos**
+
+- Dark edition: https://dev-lattice-academy-website-demo.vercel.app
+- Light edition: https://dev-lattice-academy-website-demo.vercel.app/v2
+
+![DevLattice Academy preview](public/og.png)
+
 Built with Next.js (App Router), React, TypeScript, Tailwind CSS, Motion, GSAP + ScrollTrigger, Lenis and Three.js.
 
 ## Two editions
