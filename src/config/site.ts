@@ -11,7 +11,7 @@ export const site = {
   name: "DevLattice Academy",
   shortName: "DevLattice",
   parent: "DevLattice System",
-  url: "https://devlattice-academy.vercel.app", // replace with the production domain
+  url: "https://dev-lattice-academy-website-demo.vercel.app", // replace with the production domain
   tagline: "Where engineers are structured for the future.",
   description:
     "DevLattice Academy, part of DevLattice System, trains the next generation of software engineers, designers and AI builders through structured, project-first programs.",
